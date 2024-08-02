@@ -1,13 +1,12 @@
 body {
   height: 100vh;
+}
+
+#emoji {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: #ccc;
-}
-
-#emoji {
   font-size: 10rem;
   filter: grayscale(1);
   transition-property: transfrom, filter;
