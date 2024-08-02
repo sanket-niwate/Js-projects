@@ -34,6 +34,10 @@ const emojis = [
   '😃',
   '😁',
   '😬',
+  '💕',
+  '😎',
+  '🤩',
+  '😶‍🌫️',
 ];
 
 btn.addEventListener('mouseover', function () {
